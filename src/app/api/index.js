@@ -1,7 +1,7 @@
 import users from "./fake.api/user.api"
 import professions from "./fake.api/professions.api"
-const API = {
+const api = {
     users,
     professions
 }
-export default API
+export default api
